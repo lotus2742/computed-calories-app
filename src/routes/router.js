@@ -2,9 +2,9 @@ import React, { Component }  from 'react';
 import {
     HashRouter,
     Route,
-    Link,
     Switch
 } from 'react-router-dom';
+
 import Main from "../main";
 import Hello from "../page/hello-world";
 import Test from '../page/test'
